@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+secrets.json
+config.ini
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
